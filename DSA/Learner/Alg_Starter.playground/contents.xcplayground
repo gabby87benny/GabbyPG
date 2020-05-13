@@ -5,5 +5,8 @@
         <page name='Queue'/>
         <page name='InsertionSort'/>
         <page name='BinarySearch'/>
+        <page name='BinarySearchTree'/>
+        <page name='MergeSort'/>
+        <page name='BoyerMooreStringSearch'/>
     </pages>
 </playground>

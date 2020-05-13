@@ -2,8 +2,6 @@
 
 import Foundation
 
-var str = "Hello, playground"
-
 //1 - Linear Search
 
 func linearSearch<T: Equatable>(_ arrElements: [T], _ searchItem: T) -> Int? {
